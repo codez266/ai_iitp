@@ -1,1 +1,3 @@
-# ai_iitp
+# Repository for AI codes at IITP
+Contains:
+* AStar algorithm implementation
