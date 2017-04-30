@@ -1,4 +1,4 @@
-# Repository for AI codes at IITP
+# Repository for my AI/NLP mini-projects at IITP
 Contains:
 * AStar algorithm implementation
 * Machine Translation using HMM
